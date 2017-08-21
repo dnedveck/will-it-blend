@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-# EditR
+
+## EditR
 
 EditR is an algorithm for predicting potential editing in a guide RNA region from a single Sanger sequencing run. This allows users to estimate base editing efficiency quicker and cheaper than using deep sequencing. 
 
@@ -15,7 +16,7 @@ It consists of the algorithm implemented in the R statistical programming langua
 
   
 
-## Citation
+### Citation
 
   
 
@@ -27,7 +28,7 @@ Kluesner M, Nedveck D, Lahr W, Moriarity B. Simple and cost effective quantitati
 
   
 
-## Using the Shiny App
+### Using the Shiny App
 
   
 
@@ -35,13 +36,13 @@ You can use the R Shiny App in two ways: through and instance on shinyapps.io, o
 
   
 
-### Testing it out on shinyapps.io
+#### Testing it out on shinyapps.io
 
 We have an instance on shinyapps.io here. If it’s not working, it’s likely that we used up our usage for the month, and you will have to install EditR locally. 
 
   
 
-### Installing EditR locally
+#### Installing EditR locally
  
 
 1. [Install R](https://cran.r-project.org/) and [R Studio (desktop version)](https://www.rstudio.com/products/rstudio/download/#download) 
